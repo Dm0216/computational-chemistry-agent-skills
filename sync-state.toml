@@ -25,3 +25,8 @@ updated_at = "2026-03-25T11:34:56.449573+00:00"
 last_upstream_commit = "b7a3b1266fa67e6c21aff2fac276946225171329"
 last_upstream_ref = "master"
 updated_at = "2026-03-25T11:34:42.883004+00:00"
+
+[jobs."dpgen-simplify"]
+last_upstream_commit = "ca1a48ca1cde3154b6bd48ea8a353d655d964c92"
+last_upstream_ref = "master"
+updated_at = "2026-05-08T08:52:38.972145+00:00"
