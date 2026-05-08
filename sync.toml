@@ -54,6 +54,14 @@ path = "skills/create-skill"
 dest = ".github/skills/create-skill"
 
 [[jobs]]
+name = "reacnetgenerator"
+enabled = true
+upstream_repo = "deepmodeling/reacnetgenerator"
+upstream_ref = "master"
+path = "skills/reacnetgenerator"
+dest = "analysis/reacnetgenerator"
+
+[[jobs]]
 name = "deepmd-finetune-dpa3"
 enabled = true
 upstream_repo = "deepmodeling/deepmd-kit"
